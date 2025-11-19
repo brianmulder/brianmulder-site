@@ -1,2 +1,1 @@
-# brianmulder-site
-personal website
+# Brian Mulder
